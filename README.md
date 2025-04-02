@@ -16,7 +16,7 @@ Install required libraries:
 
  ```bash
  pip install numpy pandas scikit-learn matplotlib seaborn ucimlrepo
-
+deneme
 
 3.Run the Jupyter Notebook:
 
