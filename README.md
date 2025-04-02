@@ -12,12 +12,13 @@ This project implements the **K-Nearest Neighbors (KNN)** algorithm to classify 
    git clone <repository-url>
 Install required libraries:
 
-You can install the necessary libraries using pip:
+2. You can install the necessary libraries using pip:
 
  ```bash
  pip install numpy pandas scikit-learn matplotlib seaborn ucimlrepo
 
-## Run the Jupyter Notebook:
+
+3.Run the Jupyter Notebook:
 
 Open the analysis.ipynb notebook in Jupyter Notebook or JupyterLab. Follow the instructions inside the notebook:
 
@@ -27,7 +28,7 @@ It then trains the KNN model using both the custom and Sklearn implementations f
 
 Accuracy and confusion matrices are computed to compare the models' performance.
 
-## View the Results:
+4. View the Results:
 
 Accuracy vs K values: Displays the accuracy for various values of K.
 
