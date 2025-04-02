@@ -14,10 +14,10 @@ Install required libraries:
 
 You can install the necessary libraries using pip:
 
-bash
-Copy
-pip install numpy pandas scikit-learn matplotlib seaborn ucimlrepo
-Run the Jupyter Notebook:
+ ```bash
+ pip install numpy pandas scikit-learn matplotlib seaborn ucimlrepo
+
+## Run the Jupyter Notebook:
 
 Open the analysis.ipynb notebook in Jupyter Notebook or JupyterLab. Follow the instructions inside the notebook:
 
@@ -27,11 +27,11 @@ It then trains the KNN model using both the custom and Sklearn implementations f
 
 Accuracy and confusion matrices are computed to compare the models' performance.
 
-View the Results:
+## View the Results:
 
 Accuracy vs K values: Displays the accuracy for various values of K.
 
 Confusion Matrices: Visualizes the classification performance for both the custom KNN and Sklearn KNN models.
 
-Conclusion
+## Conclusion
 The project compares custom KNN and Sklearn implementations on the Wine dataset, finding the optimal value of K using different distance metrics. Confusion matrices help assess the model's performance in detail.
