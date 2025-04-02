@@ -14,11 +14,11 @@ Install required libraries:
 
 2. You can install the necessary libraries using pip:
 
- ```bash
- pip install numpy pandas scikit-learn matplotlib seaborn ucimlrepo
-deneme
+   ```bash
+   pip install numpy pandas scikit-learn matplotlib seaborn ucimlrepo
 
-3.Run the Jupyter Notebook:
+
+3. Run the Jupyter Notebook:
 
 Open the analysis.ipynb notebook in Jupyter Notebook or JupyterLab. Follow the instructions inside the notebook:
 
